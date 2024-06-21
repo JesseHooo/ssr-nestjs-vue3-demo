@@ -1,0 +1,2 @@
+import{a as r}from"./6415917357542813.5175f89d.chunk.js";import"./Page.5fc8bce1.chunk.js";import"./index.7c776111.chunk.js";import"./vendor~index.86210204.chunk.js";import"./index~detail-id.ca772db5.chunk.js";import"./8856469654418010.4264a26f.chunk.js";var f=async({store:e,router:i,pinia:t,ctx:s})=>{const o=r(t),a=await(await window.fetch("/api/index")).json();o.setData(a)};export{f as default};
+//# sourceMappingURL=index-fetch.b71f5fc9.chunk.js.map

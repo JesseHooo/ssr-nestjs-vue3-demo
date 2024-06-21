@@ -1,0 +1,543 @@
+{
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [],
+  "node_modules/ssr-common-utils/node_modules/path-to-regexp/dist.es2015/index.js": [],
+  "node_modules/ssr-common-utils/esm/common/findRoute.js": [],
+  "node_modules/ssr-common-utils/esm/common/normalize.js": [],
+  "node_modules/ssr-common-utils/esm/common/index.js": [],
+  "node_modules/ssr-common-utils/esm/client/preload.js": [],
+  "node_modules/ssr-common-utils/esm/client/client-store.js": [],
+  "node_modules/ssr-common-utils/esm/client/index.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/env.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/const.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/time.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/api.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/app.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/component.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/context.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/util.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/api/index.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/plugin.js": [],
+  "node_modules/@vue/devtools-api/lib/esm/index.js": [],
+  "node_modules/pinia/dist/pinia.mjs": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/vuex/dist/vuex.esm-bundler.js": [],
+  "node_modules/ssr-deepclone/esm.js": [],
+  "vite/preload-helper": [],
+  "plugin-vue:export-helper": [],
+  "web/components/layout/index.vue?chunkName=Page": [],
+  "web/components/layout/App.vue?vue&type=style&index=0&lang.less": [],
+  "web/components/layout/App.vue?chunkName=Page": [],
+  "web/components/layout/fetch.ts?chunkName=Page": [],
+  "build/ssr-declare-routes.js": [],
+  "build/ssr-manual-routes.js": [],
+  "node_modules/ssr-plugin-vue3/esm/entry/combine-router.js": [],
+  "node_modules/ssr-plugin-vue3/esm/entry/create.js": [],
+  "node_modules/ssr-plugin-vue3/esm/entry/client-entry.js": [],
+  "web/pinia-store/modules/index.ts": [
+    "/client/static/6415917357542813.5175f89d.chunk.js"
+  ],
+  "web/pinia-store/modules/detail.ts": [
+    "/client/static/6415917357542813.5175f89d.chunk.js"
+  ],
+  "web/pinia-store/modules/search.ts": [
+    "/client/static/6415917357542813.5175f89d.chunk.js"
+  ],
+  "web/pinia-store/index.ts": [
+    "/client/static/6415917357542813.5175f89d.chunk.js"
+  ],
+  "node_modules/pinia/node_modules/vue-demi/lib/index.mjs": [
+    "/client/static/8856469654418010.4264a26f.chunk.js"
+  ],
+  "web/components/player/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/components/player/index.vue": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/components/brief/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/components/brief/index.vue": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/components/recommend/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/components/recommend/index.vue": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/pages/detail/render$id.vue?chunkName=detail-id": [
+    "/client/static/detail-id.b516a749.chunk.js",
+    "/client/static/detail-id.ef1239fc.chunk.css"
+  ],
+  "web/pages/detail/fetch.ts?chunkName=detail-id-fetch": [
+    "/client/static/detail-id-fetch.2c1fbfdf.chunk.js"
+  ],
+  "\u0000rollupPluginBabelHelpers.js": [
+    "/client/static/index.7c776111.chunk.js",
+    "/client/static/index.63181fdd.chunk.css"
+  ],
+  "web/components/slider/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/client/static/index.7c776111.chunk.js",
+    "/client/static/index.63181fdd.chunk.css"
+  ],
+  "web/components/slider/index.vue": [
+    "/client/static/index.7c776111.chunk.js",
+    "/client/static/index.63181fdd.chunk.css"
+  ],
+  "web/components/rectangle/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/client/static/index.7c776111.chunk.js",
+    "/client/static/index.63181fdd.chunk.css"
+  ],
+  "web/components/rectangle/index.vue": [
+    "/client/static/index.7c776111.chunk.js",
+    "/client/static/index.63181fdd.chunk.css"
+  ],
+  "web/pages/index/render.vue?chunkName=index": [
+    "/client/static/index.7c776111.chunk.js",
+    "/client/static/index.63181fdd.chunk.css"
+  ],
+  "web/pages/index/fetch.ts?chunkName=index-fetch": [
+    "/client/static/index-fetch.b71f5fc9.chunk.js"
+  ],
+  "web/components/search/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "/client/static/index~detail-id.ca772db5.chunk.js",
+    "/client/static/index~detail-id.b34a6e62.chunk.css"
+  ],
+  "web/components/search/index.vue": [
+    "/client/static/index~detail-id.ca772db5.chunk.js",
+    "/client/static/index~detail-id.b34a6e62.chunk.css"
+  ],
+  "node_modules/swiper/swiper-bundle.css": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/ssr-window/ssr-window.esm.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/dom7/dom7.esm.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/utils/dom.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/utils/utils.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/utils/get-support.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/utils/get-device.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/utils/get-browser.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/modules/resize/resize.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/modules/observer/observer.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/modular.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events-emitter.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateSize.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateSlides.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateAutoHeight.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateSlidesOffset.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateSlidesProgress.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateProgress.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateSlidesClasses.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateActiveIndex.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/updateClickedSlide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/update/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/translate/getTranslate.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/translate/setTranslate.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/translate/minTranslate.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/translate/maxTranslate.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/translate/translateTo.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/translate/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/transition/setTransition.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/transition/transitionStart.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/transition/transitionEnd.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/transition/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slideTo.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slideToLoop.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slideNext.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slidePrev.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slideReset.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slideToClosest.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/slideToClickedSlide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/slide/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/loop/loopCreate.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/loop/loopFix.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/loop/loopDestroy.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/loop/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/grab-cursor/setGrabCursor.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/grab-cursor/unsetGrabCursor.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/grab-cursor/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/manipulation/appendSlide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/manipulation/prependSlide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/manipulation/addSlide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/manipulation/removeSlide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/manipulation/removeAllSlides.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/manipulation/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/onTouchStart.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/onTouchMove.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/onTouchEnd.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/onResize.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/onClick.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/onScroll.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/events/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/breakpoints/setBreakpoint.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/breakpoints/getBreakpoint.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/breakpoints/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/classes/addClasses.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/classes/removeClasses.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/classes/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/images/loadImage.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/images/preloadImages.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/images/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/check-overflow/index.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/defaults.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/core/core-class.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/virtual/virtual.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/keyboard/keyboard.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/mousewheel/mousewheel.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/navigation/navigation.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/pagination/pagination.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/scrollbar/scrollbar.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/parallax/parallax.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/zoom/zoom.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/lazy/lazy.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/controller/controller.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/a11y/a11y.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/history/history.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/hash-navigation/hash-navigation.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/autoplay/autoplay.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/effect-fade/effect-fade.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/effect-cube/effect-cube.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/effect-flip/effect-flip.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/effect-coverflow/effect-coverflow.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/components/thumbs/thumbs.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/swiper.esm.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/utils.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/params-list.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/get-params.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/init-swiper.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/loop.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/get-changed-params.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/get-children.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/update-swiper.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/virtual.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/swiper.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/esm/vue/swiper-slide.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/swiper-vue.esm.js": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ],
+  "node_modules/swiper/components/pagination/pagination.less": [
+    "/client/static/vendor~index.86210204.chunk.js",
+    "/client/static/vendor~index.fdf292af.chunk.css"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "vue": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "plugin-vue:export-helper": [
+    "Page",
+    "detail-id",
+    "index"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/index.ts": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/layout/App.vue?vue&type=style&index=0&lang.less": [
+    "Page"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/player/index.vue": [
+    "detail-id"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/brief/index.vue": [
+    "detail-id"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/recommend/index.vue": [
+    "detail-id"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/search/index.vue": [
+    "detail-id",
+    "index"
+  ],
+  "\u0000rollupPluginBabelHelpers.js": [
+    "index"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/slider/index.vue": [
+    "index"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/rectangle/index.vue": [
+    "index"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/modules/index.ts": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/modules/detail.ts": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/modules/search.ts": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch"
+  ],
+  "vue-router": [
+    "index",
+    "vendor"
+  ],
+  "swiper": [
+    "index",
+    "vendor"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/slider/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "index"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/rectangle/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "index"
+  ],
+  "pinia": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch",
+    "vendor"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/search/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "detail-id",
+    "index"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/player/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "detail-id"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/brief/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "detail-id"
+  ],
+  "C:/code/other/NestTry/demo3/my-demo3/web/components/recommend/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+    "detail-id"
+  ],
+  "@vue/shared": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/compiler-dom": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/compiler-core": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@babel/parser": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "entities": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "estree-walker": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "source-map-js": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/server-renderer": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/compiler-ssr": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/compiler-sfc": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "magic-string": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@jridgewell/sourcemap-codec": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "postcss": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "nanoid": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "picocolors": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/runtime-dom": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "csstype": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/runtime-core": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/reactivity": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "typescript": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/devtools-api": [
+    "index",
+    "vendor",
+    "detail-id",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "dom7": [
+    "index",
+    "vendor"
+  ],
+  "ssr-window": [
+    "index",
+    "vendor"
+  ],
+  "vue-demi": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch",
+    "vendor"
+  ],
+  "@vue/composition-api": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch",
+    "vendor"
+  ]
+}
