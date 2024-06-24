@@ -1,7 +1,7 @@
 import type { UserConfig } from 'ssr-types'
 
 const userConfig: UserConfig = {
-    serverPort: 14002,
+    serverPort: 14003,
     isVite: true,
     viteConfig: () => {
         return {

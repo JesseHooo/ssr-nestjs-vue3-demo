@@ -21,7 +21,7 @@ __export(config_exports, {
 });
 module.exports = __toCommonJS(config_exports);
 const userConfig = {
-  serverPort: 14002,
+  serverPort: 14003,
   isVite: true,
   viteConfig: () => {
     return {

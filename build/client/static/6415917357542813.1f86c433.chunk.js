@@ -1,2 +1,0 @@
-import{d as e}from"./Page.bccef1df.chunk.js";var r=e("indexStore",{state:function(){return{data:{}}},actions:{setData:function(a){this.data=a.data}}}),n=e("detailStore",{state:function(){return{data:{}}},actions:{setData:function(a){this.data=a.data}}}),o=e("searchStore",{state:function(){return{searchText:""}},actions:{setData:function(a){this.searchText=a.text}}});export{r as a,o as b,n as u};
-//# sourceMappingURL=6415917357542813.1f86c433.chunk.js.map

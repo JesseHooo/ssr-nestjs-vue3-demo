@@ -1,12 +1,12 @@
 {
-  "index~detail-id": [
-    "index",
-    "detail-id"
-  ],
   "6415917357542813": [
     "index-fetch",
     "index",
     "detail-id-fetch",
+    "detail-id"
+  ],
+  "index~detail-id": [
+    "index",
     "detail-id"
   ],
   "vendor~index": [
