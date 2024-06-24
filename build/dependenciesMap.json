@@ -12,50 +12,53 @@
     "detail-id",
     "index"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/index.ts": [
-    "detail-id",
-    "detail-id-fetch",
-    "index",
-    "index-fetch"
-  ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/layout/App.vue?vue&type=style&index=0&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/layout/App.vue?vue&type=style&index=0&lang.less": [
     "Page"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/player/index.vue": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/player/index.vue": [
     "detail-id"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/brief/index.vue": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/brief/index.vue": [
     "detail-id"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/recommend/index.vue": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/recommend/index.vue": [
     "detail-id"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/search/index.vue": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/search/index.vue": [
     "detail-id",
     "index"
+  ],
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/pinia-store/index.ts": [
+    "detail-id",
+    "detail-id-fetch",
+    "index",
+    "index-fetch"
   ],
   "\u0000rollupPluginBabelHelpers.js": [
+    "Page",
+    "detail-id-fetch",
+    "index",
+    "index-fetch"
+  ],
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/slider/index.vue": [
     "index"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/slider/index.vue": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/rectangle/index.vue": [
     "index"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/rectangle/index.vue": [
-    "index"
-  ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/modules/index.ts": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/pinia-store/modules/index.ts": [
     "detail-id",
     "detail-id-fetch",
     "index",
     "index-fetch"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/modules/detail.ts": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/pinia-store/modules/detail.ts": [
     "detail-id",
     "detail-id-fetch",
     "index",
     "index-fetch"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/pinia-store/modules/search.ts": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/pinia-store/modules/search.ts": [
     "detail-id",
     "detail-id-fetch",
     "index",
@@ -69,10 +72,10 @@
     "index",
     "vendor"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/slider/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/slider/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
     "index"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/rectangle/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/rectangle/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
     "index"
   ],
   "pinia": [
@@ -82,20 +85,68 @@
     "index-fetch",
     "vendor"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/search/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/search/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
     "detail-id",
     "index"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/player/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/player/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
     "detail-id"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/brief/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/brief/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
     "detail-id"
   ],
-  "C:/code/other/NestTry/demo3/my-demo3/web/components/recommend/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
+  "C:/code/other/NestTry/demo5/ssr-nestjs-vue3-demo/web/components/recommend/index.vue?vue&type=style&index=0&scoped=true&lang.less": [
     "detail-id"
   ],
   "@vue/shared": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/runtime-dom": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "csstype": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/runtime-core": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/reactivity": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/server-renderer": [
+    "Page",
+    "detail-id",
+    "index",
+    "vendor",
+    "detail-id-fetch",
+    "index-fetch"
+  ],
+  "@vue/compiler-ssr": [
     "Page",
     "detail-id",
     "index",
@@ -151,22 +202,6 @@
     "detail-id-fetch",
     "index-fetch"
   ],
-  "@vue/server-renderer": [
-    "Page",
-    "detail-id",
-    "index",
-    "vendor",
-    "detail-id-fetch",
-    "index-fetch"
-  ],
-  "@vue/compiler-ssr": [
-    "Page",
-    "detail-id",
-    "index",
-    "vendor",
-    "detail-id-fetch",
-    "index-fetch"
-  ],
   "@vue/compiler-sfc": [
     "Page",
     "detail-id",
@@ -208,38 +243,6 @@
     "index-fetch"
   ],
   "picocolors": [
-    "Page",
-    "detail-id",
-    "index",
-    "vendor",
-    "detail-id-fetch",
-    "index-fetch"
-  ],
-  "@vue/runtime-dom": [
-    "Page",
-    "detail-id",
-    "index",
-    "vendor",
-    "detail-id-fetch",
-    "index-fetch"
-  ],
-  "csstype": [
-    "Page",
-    "detail-id",
-    "index",
-    "vendor",
-    "detail-id-fetch",
-    "index-fetch"
-  ],
-  "@vue/runtime-core": [
-    "Page",
-    "detail-id",
-    "index",
-    "vendor",
-    "detail-id-fetch",
-    "index-fetch"
-  ],
-  "@vue/reactivity": [
     "Page",
     "detail-id",
     "index",

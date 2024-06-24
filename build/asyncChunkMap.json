@@ -1,19 +1,12 @@
 {
-  "8856469654418010": [
-    "vendor",
-    "index-fetch",
+  "index~detail-id": [
     "index",
-    "detail-id-fetch",
     "detail-id"
   ],
   "6415917357542813": [
     "index-fetch",
     "index",
     "detail-id-fetch",
-    "detail-id"
-  ],
-  "index~detail-id": [
-    "index",
     "detail-id"
   ],
   "vendor~index": [
